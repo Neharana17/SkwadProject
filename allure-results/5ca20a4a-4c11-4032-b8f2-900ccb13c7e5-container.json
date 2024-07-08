@@ -1,0 +1,1 @@
+{"uuid":"5ca20a4a-4c11-4032-b8f2-900ccb13c7e5","name":"org.example.LoginPage.setUp","children":["e60b5d17-9207-485d-b637-b04ab62eedad"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720501144879,"stop":1720501151099}],"afters":[],"start":1720501144879,"stop":1720501151099}

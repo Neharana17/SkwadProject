@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Neha Rana/IdeaProjects/SeleniumSkwadProject/Loginpage.xml">
+
+
+        <classes>
+            <class name="org.example.Resturant.RLoginPage">
+
+                <methods><include name="LoginPage"/>
+                    <include name="Dashboard"/>
+                    <include name="OpenShareLink"/>
+                    <include name="PayBill"/>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

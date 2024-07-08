@@ -1,0 +1,1 @@
+{"uuid":"ba299de6-ac2a-42c2-8f30-ecb9fe5c4b0c","name":"org.example.Signpage.setUp","children":["092ecf92-1099-457e-a06f-6baa90e31229"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719991785635,"stop":1719991792016}],"afters":[],"start":1719991785635,"stop":1719991792016}

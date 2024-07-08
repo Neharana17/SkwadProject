@@ -1,0 +1,1 @@
+{"uuid":"0530a5ae-33ac-42ca-9f0d-6f03496123e9","name":"SeleniumSkwadProject","children":["a2e64518-4150-453f-9d1c-f73b6a64713a"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1718626104204,"stop":1718626110853}],"afters":[],"start":1718626104166,"stop":1718626117409}

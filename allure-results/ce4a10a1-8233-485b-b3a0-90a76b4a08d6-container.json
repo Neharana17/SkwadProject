@@ -1,0 +1,1 @@
+{"uuid":"ce4a10a1-8233-485b-b3a0-90a76b4a08d6","name":"org.example.PayBill.setUp","children":["12cc06b1-fe3c-41fd-b405-b80a20ed5fe1"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720086197334,"stop":1720086205682}],"afters":[],"start":1720086197333,"stop":1720086205684}
