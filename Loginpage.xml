@@ -3,7 +3,11 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Neha Rana/IdeaProjects/SeleniumSkwadProject">
         <classes>
+<<<<<<< HEAD
             <class name="org.example.User.LoginPage">
+=======
+            <class name="org.example.Signpage">
+>>>>>>> 9be324d938aab2a9ba7b145449902bb3020bcfb1
 
             </class>
         </classes>

@@ -3,8 +3,14 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Neha Rana/IdeaProjects/SeleniumSkwadProject">
         <classes>
+<<<<<<< HEAD
             <class name="org.example.User.Dashboard">
 
+=======
+            <class name="org.example.LoginPage">
+                <methods><include name="Loginpage"/>
+                </methods>
+>>>>>>> 9be324d938aab2a9ba7b145449902bb3020bcfb1
             </class>
         </classes>
     </test>
